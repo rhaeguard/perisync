@@ -12,3 +12,9 @@ This repository contains two pieces of code that you can run together to syncron
 - Run windows script first and make sure it is writing to the file
 - Once everything works, run the linux executable using `sudo`
     - at the moment, to gently stop the script, all you need to do is to move your cursor to the top-left corner on windows which is the `(0, 0)` position. That will stop the script.
+
+## future wishlist
+
+- turn into a KVM (like [Synergy](https://github.com/symless/synergy-core)) with minimal functionality
+- easy switch from windows to linux and back
+- keyboard support??????

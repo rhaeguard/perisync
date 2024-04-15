@@ -11,6 +11,7 @@
 
 // sources: 
 // https://unix.stackexchange.com/a/422705
+// https://kernel.org/doc/html/v4.12/input/uinput.html
 
 void emit(int fd, int type, int code, int val)
 {

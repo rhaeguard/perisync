@@ -7,7 +7,7 @@
 
 #include <linux/uinput.h>
 
-#define TARGET_FILE "/home/rhaeguard/Windows/data.txt"
+#define TARGET_FILE "<TARGET_FILE>"
 
 // sources: 
 // https://unix.stackexchange.com/a/422705
